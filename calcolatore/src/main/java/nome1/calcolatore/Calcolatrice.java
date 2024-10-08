@@ -12,5 +12,6 @@ public class Calcolatrice {
 		
 		System.out.println("Faccio la somma di 5 e 7");
 		System.out.println("La somma è "+ result);
+		// file modificato 
 	}
 }
